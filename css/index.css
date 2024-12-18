@@ -1,0 +1,46 @@
+body{
+    background-color: lightblue;
+}
+h1{
+    color: #c82d2d;
+}
+p{
+    color: #c82d2d;
+}
+
+.container1{
+    background-color: lightgray;
+}
+.container2{
+    background-color: rgb(72, 70, 70);
+}
+#p1{
+    color: blue;
+}
+#p2{
+    color: green;
+}
+
+
+
+.flexbox-container{
+    background-color: rgb(31, 24, 161);
+    width: 1000px;
+    height: 400px;
+    margin-bottom:20px;
+
+
+}
+
+ div{
+    background-color: rgb(188, 188, 14);
+    width: 600px;
+    height: 100px;
+    margin-top: 10px;
+    margin-left: 20px;
+    display: flex;
+}
+
+div{
+    
+}
